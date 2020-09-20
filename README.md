@@ -1,18 +1,6 @@
-# Nebula 13
+# Expoint Station
 
-[Discord](https://discord.gg/Ddw58yF) - [Code](http://github.com/NebulaSS13/Nebula/)
-
----
-
-### CONTRIBUTING GUIDELINES
-
-All users are expected to review [/docs/CODE_OF_CONDUCT.md](/docs/CODE_OF_CONDUCT.md) before interacting with the repository or other users.
-
----
-
-### SECURITY
-
-Please see [/docs/SECURITY.md](/docs/SECURITY.md) for this repository's security policy, and how to report security issues.
+Hard Sci-fi espionage roleplay experience. Codebase was based of the [Nebula codebase](https://github.com/NebulaSS13/Nebula). 
 
 ---
 
